@@ -24,11 +24,3 @@
     <a href="https://twitter.com/donny_mrshd">Twitter</a>
   </samp>
 </p>
-<h2></h2>
-<p align="left">
-  <samp>
-  Github Stats
-  </samp>
-</p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donnymarsahid&show_icons=true&theme=radical)
