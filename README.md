@@ -1,26 +1,47 @@
+<h1 align="center">👋 Hello, I'm Donny Marsahid</h1>
 <p align="center">
-     <samp>
- <br>
-    HI, Welcome!
-    </samp>
-  </p>  
-  <p align="left">
-     <samp>
- <br>
-    I'm Donny Marsahid from Indonesian stay in Jakarta City, I'm a developer, I like to learn design as well as certain programming languages and frameworks, and I have a personal website that contains my personal bio and portfolio  <a href="https://donnymarsahid.my.id/" target="_blank"><> donnymarsahid.my.id <> </a>
-    </samp>
-  </p>
-<!-- <p align="right"><b><samp>」</samp></b></p> -->
-
-
-<h2></h2> <br>
-<p align="left">
-  <samp>
-  	<a href="https://www.instagram.com/donnymrshd/">Instagram</a>, 
-    <a href="donnymrshd.94@gmail.com">E-Mail</a>,
-    <a href="https://dribbble.com/donnymrshd">Dribbble</a>,
-    <a href="https://www.facebook.com/donymarsahid">Facebook</a>,
-    <a href="https://www.linkedin.com/in/donny-marsahid/">LinkedIn</a>,
-    <a href="https://twitter.com/donny_mrshd">Twitter</a>
-  </samp>
+  Fullstack Developer | Web Enthusiast
 </p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/donny-marsahid">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:donnymrshd.94@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+---
+
+### About Me
+
+I'm a passionate Fullstack Developer with a love for crafting software and building web applications. I enjoy tackling complex problems and turning them into elegant solutions. Here's a little more about me:
+
+- 🌍 Location: Jakarta
+- 💼 JobDesk: Fullstack Developer
+
+### Tech Stack
+
+I work with a variety of technologies, including but not limited to:
+
+- Front-end: HTML, CSS, JavaScript, React.js, Angular, Next.js
+- Back-end: Node.js, Python, PHP
+- Databases: MySQL, MongoDB, PostgreSQL, Firebase
+- Mobile Development: React Native, Flutter
+
+### My Portfolio
+
+Welcome to my portfolio! Here's a showcase of some of the projects I'm particularly proud of:
+
+- [Personal Website](https://donnymarsahid.my.id): My personal website where you can learn more about me, explore my portfolio, and read articles I've written.
+
+On my [Personal Website](https://donnymarsahid.my.id), you can find detailed information about my projects, my bio, and a collection of articles I've written. It's the central hub for everything related to my work and interests.
+
+Explore these projects and articles for a deeper look into my work and coding style.
+
+### Contact Me
+
+You can reach out to me via email at [donnymrshd.94@email.com]. I'm also active on LinkedIn and Twitter, so don't hesitate to connect with me.
+
+Thanks for visiting my GitHub profile, and happy coding! 🚀
